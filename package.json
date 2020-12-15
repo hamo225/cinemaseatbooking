@@ -1,0 +1,19 @@
+{
+  "name": "seat_booking_feature",
+  "version": "1.0.0",
+  "description": "Book seats, select, and unselect seats, get total price of booking",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamo225/cinemaseatbooking.git"
+  },
+  "author": "Tarek Hamaoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamo225/cinemaseatbooking/issues"
+  },
+  "homepage": "https://github.com/hamo225/cinemaseatbooking#readme"
+}
